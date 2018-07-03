@@ -1,0 +1,10 @@
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\bin\Debug\Ordinario.exe.config
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\bin\Debug\Ordinario.exe
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\bin\Debug\Ordinario.pdb
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.csprojAssemblyReference.cache
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.Form1.resources
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.Properties.Resources.resources
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.csproj.GenerateResource.cache
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.csproj.CoreCompileInputs.cache
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.exe
+c:\users\joséenrique\source\repos\Ordinario\Ordinario\obj\Debug\Ordinario.pdb
